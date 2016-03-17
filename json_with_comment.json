@@ -1,0 +1,19 @@
+{
+  "description": "Testing this", // this is comment
+
+  "target_user": {
+    "login": "user",
+    "password": "pass"
+  },
+
+  "msg_count": 10,
+
+  "method": "method // not really a comment!",
+  /*
+  multiline comment
+  */
+  "params": {
+    "ip": "127.0.0.1",
+    "msg_id": "/* None */" 
+  }
+}
